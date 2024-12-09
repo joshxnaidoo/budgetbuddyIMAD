@@ -1,3 +1,4 @@
+// Author: Josh Jonathan Naidoo ST10454615
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.Button

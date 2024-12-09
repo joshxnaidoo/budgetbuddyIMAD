@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">budgetbuddy</string>
+    <string name="budgetbuddy">BudgetBuddy</string>
+    <string name="student_number_10454615">Student Number: 10454615</string>
+    <string name="go_to_main_screen">Go to Main Screen</string>
+    <string name="exit">Exit</string>
+    <string name="weekly_spending_tracker">Weekly Spending Tracker</string>
+    <string name="view_daily_details">View Daily Details</string>
+    <string name="show_day_with_highest_expense">Show Day with Highest Expense</string>
+    <string name="back_to_main_screen">Back to Main Screen</string>
+    <string name="daily_spending_details">Daily Spending Details</string>
+</resources>

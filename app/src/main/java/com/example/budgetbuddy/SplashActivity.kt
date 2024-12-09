@@ -1,3 +1,4 @@
+// Author: Josh Jonathan Naidoo ST10454615
 package com.example.budgetbuddy  // Replace with your actual package name
 
 import android.annotation.SuppressLint

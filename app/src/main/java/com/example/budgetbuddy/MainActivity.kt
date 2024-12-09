@@ -1,3 +1,4 @@
+// Author: Josh Jonathan Naidoo ST10454615
 package com.example.budgetbuddy
 
 import DetailsActivity

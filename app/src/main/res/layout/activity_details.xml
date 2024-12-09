@@ -1,3 +1,4 @@
+// Author: Josh Jonathan Naidoo ST10454615
 <!-- res/layout/activity_details.xml -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -9,7 +10,7 @@
         android:id="@+id/details_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Daily Spending Details"
+        android:text="@string/daily_spending_details"
         android:textSize="24sp"
         android:textStyle="bold"
         android:layout_gravity="center"/>
@@ -24,7 +25,7 @@
         android:id="@+id/button_highest_expense"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Show Day with Highest Expense"
+        android:text="@string/show_day_with_highest_expense"
         android:layout_gravity="center"
         android:layout_marginTop="16dp"/>
 
@@ -39,7 +40,7 @@
         android:id="@+id/button_back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back to Main Screen"
+        android:text="@string/back_to_main_screen"
         android:layout_gravity="center"
         android:layout_marginTop="16dp"/>
 </LinearLayout>
